@@ -32,3 +32,13 @@ function arithmaticOperation(numberOne, numberTwo, numberThree) {
   let thirdNum = readline.question("Enter the third number");
   //parseInt function converts its first argument to a strin
   arithmaticOperation(parseInt(FirstNum), parseInt(secondNum), parseInt(thirdNum));
+
+
+
+
+
+
+
+  
+
+  

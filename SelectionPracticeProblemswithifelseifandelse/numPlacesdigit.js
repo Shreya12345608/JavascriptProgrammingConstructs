@@ -15,5 +15,5 @@ function displayUnit(digitPlace) {
 // to read data from the user
   var readline = require("readline-sync");
   var digitPlace = readline.question("Enter the decimal place");
-//parseInt function converts its first argument to a string,
+//parseInt function converts its first argument to a strin
   displayUnit(parseInt(digitPlace));
